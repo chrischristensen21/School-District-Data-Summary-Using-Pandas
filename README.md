@@ -91,7 +91,7 @@ Spending bins were created and the following information shown
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
 
-![Scores by School Spending](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
+![Scores by School Spending](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/Scores%20by%20School%20Spending.png)
 
 ### Scores by School Size
 
