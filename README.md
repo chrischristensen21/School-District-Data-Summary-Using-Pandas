@@ -121,4 +121,5 @@ A few things that stand out upon a quick observation is that school spending did
 
 ---
 
-**Contact:** Chris Christensen chrischristensen21@gmail.com
+**Contact:** Chris Christensen 
+chrischristensen21@gmail.com
