@@ -120,3 +120,4 @@ Spending bins were created and the following information shown
 A few things that stand out upon a quick observation is that school spending did not increase students scores. The school type and class size had a larger impact. Charter schools appeared to perform better as well as smaller class room sizes.
 
 ---
+#### Contact: (chrischristensen21@gmail.com)
