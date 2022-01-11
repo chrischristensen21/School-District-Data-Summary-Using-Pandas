@@ -47,6 +47,7 @@ A pandas data frame was created of the top 5 schools by percent overall passing 
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
+![Top Performing Schools](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
 
 ### Bottom Performing Schools
 
@@ -62,14 +63,15 @@ A pandas data frame was created of the bottom 5 performing schools by percent ov
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
-
+![Bottom Performing Schools](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/Bottom%20Performing%20Schools.png)
 ### Math Scores by Grade
 
 A pandas data frame was created to showcase math scores by grade
-
+![Math Scores by Grade](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
 ### Reading Scores by Grade
 
 A pandas data frame was created to showcase reading scores by grade
+![Reading Scores by Grade](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
 
 ### Scores by School Spending
 
@@ -79,6 +81,7 @@ Spending bins were created and the following information shown
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
+![Scores by School Spending](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
 
 ### Scores by School Size
 
@@ -88,6 +91,7 @@ Spending bins were created and the following information shown
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
+![Scores by School Size](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
 
 ### Scores by School Type
 
@@ -97,6 +101,7 @@ Spending bins were created and the following information shown
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
+![Scores by School Type](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
 
 ### Conclusions
 
