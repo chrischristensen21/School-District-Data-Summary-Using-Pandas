@@ -47,7 +47,7 @@ A pandas data frame was created of the top 5 schools by percent overall passing 
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
-![Top Performing Schools](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
+![Top Performing Schools](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/Top%20Performing%20Schools.png)
 
 ### Bottom Performing Schools
 
@@ -64,14 +64,16 @@ A pandas data frame was created of the bottom 5 performing schools by percent ov
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
 ![Bottom Performing Schools](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/Bottom%20Performing%20Schools.png)
+
 ### Math Scores by Grade
 
 A pandas data frame was created to showcase math scores by grade
-![Math Scores by Grade](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
+![Math Scores by Grade](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/Math%20Scores%20by%20Grade.png)
+
 ### Reading Scores by Grade
 
 A pandas data frame was created to showcase reading scores by grade
-![Reading Scores by Grade](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
+![Reading Scores by Grade](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/Reading%20Scores%20by%20Grade.png)
 
 ### Scores by School Spending
 
@@ -91,7 +93,7 @@ Spending bins were created and the following information shown
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
-![Scores by School Size](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
+![Scores by School Size](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/Score%20by%20School%20Size.png)
 
 ### Scores by School Type
 
@@ -101,8 +103,7 @@ Spending bins were created and the following information shown
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
-![Scores by School Type](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
-
+![Scores by School Type](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/Scores%20by%20School%20Type.png
 ### Conclusions
 
 A few things that stand out upon a quick observation is that school spending did not increase students scores. The school type and class size had a larger impact. Charter schools appeared to perform better as well as smaller class room sizes.
