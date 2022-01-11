@@ -33,7 +33,7 @@ A summary of the each school within the district info was created in a pandas da
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
 ![School Summary](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Code.png?raw=true)
-
+![School Summary Output](https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/School%20Summary%20Output%20Dataframe.png)
 ### Top Performing Schools 
 
 A pandas data frame was created of the top 5 schools by percent overall passing called "top_schools " which included:
