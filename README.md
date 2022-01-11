@@ -17,7 +17,7 @@ A summary of the district info was created in a pandas data frame called "distri
 * Percent of Students Passing Math 
 * Percent of Students Passing Reading 
 * Percent Overall Passing Math and Reading
-![District Summary]https://github.com/chrischristensen21/School-District-Data-Summary-Using-Pandas/blob/main/PyCitySchools/Screen%20Shots/District%20Summary.png?raw=true
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### School Summary
 
